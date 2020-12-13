@@ -1,0 +1,8 @@
+12 32 02 rmsprop  is the best model according to v1 and v2 dictionaries as well
+
+12 window_size
+32 or 512 n_lstm
+0.2 dropout
+and rmsprop optimizer 
+
+will be used
