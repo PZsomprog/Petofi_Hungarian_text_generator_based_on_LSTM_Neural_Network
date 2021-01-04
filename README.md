@@ -2,6 +2,7 @@
 this repository contains a hungarian text generator notebook, an LSTM model and their inputs and "inoutpreparator" notebooks as well.
 
 contributors: Szilard Novoth, Zsombor Pancsics
+Associated youtube video: https://www.youtube.com/watch?v=BIR2rPZESKM
 
 The repository contains 3 main functions:
 -the I. is the preparation of the input data
